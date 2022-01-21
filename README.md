@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinclair11
-- 👀 I’m interested in developing the most interesting and beautiful projects ever made.
+- 👀 I’m interested in developing the most beautiful projects ever made.
 - 👨🏼‍💻 I’m currently learning Web, mobile, blockchain and game development.
 - 💞️ I’m looking to collaborate on projects and products developed with the latest technologies and with a lot of passion.
 - 📫 How to reach me:
