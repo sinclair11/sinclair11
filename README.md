@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects and products developed with the latest technologies and with a lot of passion
 - ℹ️ More information about the expertise and services which I provide can be found on my website: https://www.stefantincu.com/
 - 📫 How to reach me:
-  email: stabilopodtech@gmail.com
+  email: stefantnc11@gmail.com
   linkedin: https://www.linkedin.com/in/stefan-tincu-b01441193/
 
 <!---
