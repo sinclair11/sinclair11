@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefan
 - 👀 I’m interested in developing the most amazing projects ever made
-- 👨🏼‍💻 I’m currently specialising in WEB, desktop, microservices and cloud computing
+- 👨🏼‍💻 I’m currently specialising in WEB, cloud computing and desktop applications
 - ⚙️  This space contains repositories with templates and projects showcasing 
 - 💞️ I’m looking to collaborate on projects and products developed with the latest technologies and with a lot of passion
 - 📫 How to reach me:
