@@ -3,7 +3,6 @@
 - 👨🏼‍💻 I’m currently specialising in WEB, desktop, microservices and cloud computing
 - ⚙️  This space contains repositories with templates and projects showcasing 
 - 💞️ I’m looking to collaborate on projects and products developed with the latest technologies and with a lot of passion
-- ℹ️ More information about the expertise and services which I provide can be found on my website: https://www.stefantincu.com/
 - 📫 How to reach me:
   email: stefantnc11@gmail.com
   linkedin: https://www.linkedin.com/in/stefan-tincu-b01441193/
